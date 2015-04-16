@@ -4,7 +4,7 @@ Fanney Zhu, Andy Tran
 fanneyzhu@college.harvard.edu, andytran@college.harvard.edu
 
 CS50 Final Project
-Leap Motion Piano (Virtual Steinway) Design Document
+Leap Motion Piano (Virtual Steinway) Design Spec
 
 In high-level overview, in order to create our Leap Motion sensor-controlled virtual piano, 
 we utilized a Game Engine software called Unity to create our graphical User interface (to 
